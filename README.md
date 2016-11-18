@@ -16,7 +16,7 @@ public Vector3 SomeFunctionName(){
 public Vector3 someFunctionName(){  
 	// Some procedure
 }
-
+```
 #### Use lowerCamelCase naming style for parameters, member variables, global variables, local variables
 
 ##### Do
